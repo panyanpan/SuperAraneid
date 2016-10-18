@@ -1,0 +1,10 @@
+D:\GitHub\2016\SuperAraneid\bin\Debug\SuperAraneid.exe.config
+D:\GitHub\2016\SuperAraneid\bin\Debug\SuperAraneid.exe
+D:\GitHub\2016\SuperAraneid\bin\Debug\SuperAraneid.pdb
+D:\GitHub\2016\SuperAraneid\obj\Debug\SuperAraneid.csprojResolveAssemblyReference.cache
+D:\GitHub\2016\SuperAraneid\obj\Debug\SuperAraneid.FrmStrat.resources
+D:\GitHub\2016\SuperAraneid\obj\Debug\SuperAraneid.FromAbout.resources
+D:\GitHub\2016\SuperAraneid\obj\Debug\SuperAraneid.Properties.Resources.resources
+D:\GitHub\2016\SuperAraneid\obj\Debug\SuperAraneid.csproj.GenerateResource.Cache
+D:\GitHub\2016\SuperAraneid\obj\Debug\SuperAraneid.exe
+D:\GitHub\2016\SuperAraneid\obj\Debug\SuperAraneid.pdb
